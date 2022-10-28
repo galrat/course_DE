@@ -5,3 +5,8 @@
 Перенос в папку develop
 
 что-то не то с develop пробую еще раз сохраниться в main
+
+final test
+
+ссылка на репозиторий коллеги: https://github.com/Ragnarok-039/DE_Sprint
+номер его последнего коммита: 1e412b7f8635d91f9a039c0808ec4418be77765e
